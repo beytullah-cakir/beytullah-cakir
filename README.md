@@ -2,15 +2,22 @@
 
 ### 💻 Software Developer
 
-I'm a **Software Developer** interested in backend development and game development.
+I'm a **Software Developer** with a primary focus on **Game Development** and a secondary focus on **Backend Development**.
 
-I enjoy learning new technologies and turning what I learn into **real-world projects**. I'm mainly focused on **PHP & Laravel**, while also developing games with **Unity & C#**.
+I enjoy creating games with **Unity & C#**, experimenting with gameplay mechanics, and turning ideas into playable experiences.
 
-I like building projects from scratch, solving problems, experimenting with new ideas, and continuously improving my skills through hands-on experience.
+Alongside game development, I'm also interested in building backend systems and APIs using **PHP & Laravel**. I enjoy learning new technologies, building projects from scratch, solving problems, and improving my skills through hands-on experience.
 
 ---
 
 ## 🚀 Technologies & Tools
+
+### 🎮 Game Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
 
 ### 💻 Backend & Programming
 
@@ -20,22 +27,47 @@ I like building projects from scratch, solving problems, experimenting with new 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🎮 Game Development
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
+## 🎮 Game Development
+
+Game development is my **main area of focus**.
+
+I'm interested in creating games with Unity, developing gameplay systems, experimenting with different mechanics, and turning ideas into playable projects.
+
+```text
+🎮 Unity & C#
+🕹️ Gameplay Programming
+⚙️ Game Mechanics
+🚀 Personal Game Projects
+💡 Experimenting & Creating
+```
+
+---
+
+## 💻 Backend Development
+
+Backend development is another area I'm actively developing my skills in.
+
+I mainly work with **PHP & Laravel**, building APIs and backend systems while learning more about software architecture and best practices.
+
+```text
+🐘 PHP
+🔴 Laravel
+🌐 REST APIs
+🐍 Python
+🔧 Backend Systems
+```
 
 ---
 
 ## 🛠️ What I'm Working On
 
 ```text
-💻 Backend Development
-🎮 Unity Game Development
-🚀 Building Personal Projects
-🧠 Learning & Exploring New Technologies
+🎮 Developing Games with Unity
+💻 Building Backend Projects
+🚀 Creating Personal Projects
+🧠 Learning New Technologies
 🔧 Improving My Development Skills
 ```
 
@@ -45,9 +77,9 @@ I like building projects from scratch, solving problems, experimenting with new 
 
 > **Learn → Build → Break → Fix → Improve → Repeat**
 
-I believe the best way to become a better developer is to **build things**.
+My goal is to become a better developer by continuously **building, experimenting, and learning**.
 
-I'm constantly working on personal projects, experimenting with different technologies, and challenging myself to solve new problems.
+I believe the best way to improve is to turn ideas into real projects and learn from every challenge along the way.
 
 ---
 
