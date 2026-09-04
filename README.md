@@ -2,11 +2,13 @@
 
 ### 💻 Software Developer
 
-I'm a **Software Developer** with a primary focus on **Game Development** and a secondary focus on **Backend Development**.
+I'm a **Software Developer** passionate about creating games and bringing ideas to life through interactive experiences.
 
-I enjoy creating games with **Unity & C#**, experimenting with gameplay mechanics, and turning ideas into playable experiences.
+My main focus is **game development**, where I enjoy experimenting with gameplay ideas, creating new mechanics, and turning concepts into playable projects.
 
-Alongside game development, I'm also interested in building backend systems and APIs using **PHP & Laravel**. I enjoy learning new technologies, building projects from scratch, solving problems, and improving my skills through hands-on experience.
+Alongside game development, I also develop projects in **backend development** to improve my understanding of software systems and build a broader range of development skills.
+
+I enjoy learning by building, experimenting with new ideas, and continuously improving through every project I work on.
 
 ---
 
@@ -33,42 +35,27 @@ Alongside game development, I'm also interested in building backend systems and 
 
 Game development is my **main area of focus**.
 
-I'm interested in creating games with Unity, developing gameplay systems, experimenting with different mechanics, and turning ideas into playable projects.
+I'm interested in creating engaging gameplay experiences, experimenting with different ideas, and turning concepts into playable projects.
 
 ```text
-🎮 Unity & C#
+🎮 Game Development
 🕹️ Gameplay Programming
 ⚙️ Game Mechanics
 🚀 Personal Game Projects
-💡 Experimenting & Creating
+💡 Creating & Experimenting
 ```
 
 ---
 
 ## 💻 Backend Development
 
-Backend development is another area I'm actively developing my skills in.
-
-I mainly work with **PHP & Laravel**, building APIs and backend systems while learning more about software architecture and best practices.
+Besides game development, I also work on **backend projects** to expand my software development skills and gain experience in building reliable and scalable systems.
 
 ```text
-🐘 PHP
-🔴 Laravel
-🌐 REST APIs
-🐍 Python
-🔧 Backend Systems
-```
-
----
-
-## 🛠️ What I'm Working On
-
-```text
-🎮 Developing Games with Unity
-💻 Building Backend Projects
-🚀 Creating Personal Projects
-🧠 Learning New Technologies
-🔧 Improving My Development Skills
+🌐 API Development
+⚙️ Backend Systems
+🚀 Personal Projects
+🧠 Learning & Exploring
 ```
 
 ---
@@ -77,9 +64,9 @@ I mainly work with **PHP & Laravel**, building APIs and backend systems while le
 
 > **Learn → Build → Break → Fix → Improve → Repeat**
 
-My goal is to become a better developer by continuously **building, experimenting, and learning**.
+I believe the best way to improve as a developer is to **keep building**.
 
-I believe the best way to improve is to turn ideas into real projects and learn from every challenge along the way.
+My goal is to continue creating games, developing meaningful projects, exploring new ideas, and growing as a software developer.
 
 ---
 
